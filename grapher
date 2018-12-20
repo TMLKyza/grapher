@@ -1,0 +1,2 @@
+#!/bin/sh
+php ~/.grapher/script.php $@
